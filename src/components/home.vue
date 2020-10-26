@@ -1,5 +1,5 @@
 <template>
-  这是home1
+  这是home2
 </template>
 
 <script>
